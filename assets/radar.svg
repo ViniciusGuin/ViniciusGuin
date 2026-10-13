@@ -44,8 +44,8 @@
 <text x="340" y="78" font-size="12" fill="#ffb000" letter-spacing="3">PERFIL CARREGADO
   <animate attributeName="opacity" values="1;1;.25;1;1" keyTimes="0;.45;.5;.55;1" dur="3s" repeatCount="indefinite"/>
 </text>
-<text x="340" y="132" font-size="54" font-weight="700" fill="#e6e1cf">SEU NOME</text>
-<text x="342" y="166" font-size="16" fill="#ffb000" xml:space="preserve">desenvolvedor web em construção  <tspan fill="#6b7280">/</tspan>  cibersegurança</text>
+<text x="340" y="132" font-size="54" font-weight="700" fill="#e6e1cf">Vinicius Guin</text>
+<text x="342" y="166" font-size="16" fill="#ffb000" xml:space="preserve">desenvolvedor full-stack  <tspan fill="#6b7280">/</tspan>  cibersegurança</text>
 <text x="342" y="200" font-size="12" fill="#6b7280" xml:space="preserve">LOC: Brasil   FUSO: UTC-3   STATUS: <tspan fill="#ffb000">aberto a colaborações</tspan></text>
 <text x="342" y="220" font-size="12" fill="#6b7280" xml:space="preserve">ÁREAS  ativo: 2   estudando: 1</text>
 <g transform="translate(342.0,240)">
