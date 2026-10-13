@@ -11,11 +11,7 @@
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-Meu nome é Vinicius Guin, sou um desenvolvedor, que adora tecnologia, desenvolvimento criativo e lógico. Estou construindo minha base em desenvolvimento full-stack e gosto de transformar ideias em realidade. Em paralelo, estudo cibersegurança: quero entender como as aplicações quebram para aprender a construí-las melhor.
-</p>
-
-<p align="center">
-Meu primeiro projeto foi desenvolvido durante uma aula de programação na escola, depois disso fui aprendendo mais sobre as áreas da tecnologia, me interessei por full-stack, cibersegurança e estou sempre obtendo mais conhecimento todo dia
+Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atualmente em busca de obter conhecimento profissional e oportunidades de vagas. Estou sempre querendo aprender mais sobre desenvolvimento full-stack e gosto de transformar ideias em realidade. Em paralelo, estudo cibersegurança: quero entender como as aplicações quebram para aprender a construí-las melhor.
 </p>
 
 </br>
