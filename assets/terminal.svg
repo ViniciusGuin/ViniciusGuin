@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 307" width="960" height="307" role="img" aria-label="Terminal listando as áreas e tecnologias do perfil">
+<defs>
+  <clipPath id="digita"><rect x="66" y="76" width="0" height="22">
+    <animate attributeName="width" calcMode="discrete" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;0;0" keyTimes="0.00000;0.04000;0.04750;0.05500;0.06250;0.07000;0.07750;0.08500;0.09250;0.10000;0.10750;0.11500;0.12250;0.13000;0.13750;0.14500;0.15250;0.92000;1.00000" dur="15s" repeatCount="indefinite"/>
+  </rect></clipPath>
+</defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace;font-size:15px}</style>
+<rect width="960" height="307" rx="12" fill="#0b0f14"/>
+<path d="M0,12 a12,12 0 0 1 12,-12 h936 a12,12 0 0 1 12,12 v32 h-960 z" fill="#121821"/>
+<circle cx="26" cy="22" r="6" fill="#ff5f56"/><circle cx="48" cy="22" r="6" fill="#ffbd2e"/><circle cx="70" cy="22" r="6" fill="#27c93f"/>
+<text x="480" y="27" text-anchor="middle" fill="#6b7280" style="font-size:13px">voce@perfil: ~/areas</text>
+<rect x=".5" y=".5" width="959" height="306" rx="12" fill="none" stroke="#ffb000" stroke-opacity=".22"/>
+<text x="44" y="92" fill="#ffb000">$</text>
+<text x="66" y="92" fill="#e6e1cf" clip-path="url(#digita)">./perfil --areas</text>
+<g opacity="0"><text x="44" y="119" fill="#6b7280">carregando perfil.json... ok</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.19333;0.21000;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="44" y="146" fill="#6b7280" style="font-size:12px;letter-spacing:2px">ID</text><text x="90" y="146" fill="#6b7280" style="font-size:12px;letter-spacing:2px">ÁREA</text><text x="262" y="146" fill="#6b7280" style="font-size:12px;letter-spacing:2px">ESTADO</text><text x="371" y="146" fill="#6b7280" style="font-size:12px;letter-spacing:2px">STACK</text><line x1="44" y1="155" x2="920" y2="155" stroke="#6b7280" stroke-opacity=".4"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.22667;0.24333;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+<g opacity="0"><g>
+<text x="44" y="173" fill="#6b7280">01</text>
+<text x="90" y="173" fill="#5ccfe6">web / full-stack</text>
+<text x="262" y="173" fill="#8bd450">ativo</text>
+<text x="371" y="173" fill="#e6e1cf">HTML5 · CSS3 · JavaScript</text>
+<animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0.00000;0.25667;0.27333;1.00000" dur="15s" repeatCount="indefinite"/></g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.25667;0.27333;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+<g opacity="0"><g>
+<text x="44" y="200" fill="#6b7280">02</text>
+<text x="90" y="200" fill="#ffb000">cibersegurança</text>
+<text x="262" y="200" fill="#ffb000">estudando</text>
+<text x="371" y="200" fill="#e6e1cf">fundamentos · OWASP Top 10</text>
+<animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0.00000;0.29000;0.30667;1.00000" dur="15s" repeatCount="indefinite"/></g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.29000;0.30667;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+<g opacity="0"><g>
+<text x="44" y="227" fill="#6b7280">03</text>
+<text x="90" y="227" fill="#c792ea">metodologia ágil</text>
+<text x="262" y="227" fill="#8bd450">ativo</text>
+<text x="371" y="227" fill="#e6e1cf">Scrum · trabalho em equipe</text>
+<animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0.00000;0.32333;0.34000;1.00000" dur="15s" repeatCount="indefinite"/></g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.32333;0.34000;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="44" y="254" fill="#ffb000"># 3 áreas carregadas</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.37000;0.38667;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="44" y="281" fill="#ffb000">$</text>
+<rect x="66" y="267" width="9" height="18" fill="#ffb000">
+  <animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" dur="1s" repeatCount="indefinite"/>
+</rect><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00000;0.42333;0.44000;0.92000;0.95333;1.00000" dur="15s" repeatCount="indefinite"/></g>
+</svg>

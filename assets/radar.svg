@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" role="img" aria-label="Radar com as áreas do perfil">
+<defs>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffb000" stop-opacity="0"/>
+    <stop offset="1" stop-color="#ffb000" stop-opacity=".55"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="165" cy="143" r="180" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffb000" stop-opacity=".10"/>
+    <stop offset="1" stop-color="#ffb000" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="rc"><circle cx="165" cy="143" r="120"/></clipPath>
+  <clipPath id="tk"><rect x="20" y="292" width="920" height="22"/></clipPath>
+</defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect width="960" height="330" rx="14" fill="#0b0f14"/>
+<rect x=".5" y=".5" width="959" height="329" rx="14" fill="none" stroke="#ffb000" stroke-opacity=".25"/>
+<circle cx="165" cy="143" r="180" fill="url(#glow)"/>
+<line x1="0" y1="0" x2="0" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="40" y1="0" x2="40" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="80" y1="0" x2="80" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="120" y1="0" x2="120" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="160" y1="0" x2="160" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="200" y1="0" x2="200" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="240" y1="0" x2="240" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="280" y1="0" x2="280" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="320" y1="0" x2="320" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="360" y1="0" x2="360" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="400" y1="0" x2="400" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="440" y1="0" x2="440" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="480" y1="0" x2="480" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="520" y1="0" x2="520" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="560" y1="0" x2="560" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="600" y1="0" x2="600" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="640" y1="0" x2="640" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="680" y1="0" x2="680" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="720" y1="0" x2="720" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="760" y1="0" x2="760" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="800" y1="0" x2="800" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="840" y1="0" x2="840" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="880" y1="0" x2="880" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="920" y1="0" x2="920" y2="330" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="0" x2="960" y2="0" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="40" x2="960" y2="40" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="80" x2="960" y2="80" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="120" x2="960" y2="120" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="160" x2="960" y2="160" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="200" x2="960" y2="200" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="240" x2="960" y2="240" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="280" x2="960" y2="280" stroke="#ffb000" stroke-opacity=".035"/><line x1="0" y1="320" x2="960" y2="320" stroke="#ffb000" stroke-opacity=".035"/><circle cx="165" cy="143" r="120" fill="none" stroke="#ffb000" stroke-opacity="0.55"/><circle cx="165" cy="143" r="90" fill="none" stroke="#ffb000" stroke-opacity="0.22"/><circle cx="165" cy="143" r="60" fill="none" stroke="#ffb000" stroke-opacity="0.22"/><circle cx="165" cy="143" r="30" fill="none" stroke="#ffb000" stroke-opacity="0.22"/><line x1="45" y1="143" x2="285" y2="143" stroke="#ffb000" stroke-opacity=".22"/><line x1="165" y1="23" x2="165" y2="263" stroke="#ffb000" stroke-opacity=".22"/><line x1="165.0" y1="31.0" x2="165.0" y2="23.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="185.1" y1="28.8" x2="185.8" y2="24.8" stroke="#ffb000" stroke-opacity=".5"/><line x1="204.7" y1="34.0" x2="206.0" y2="30.2" stroke="#ffb000" stroke-opacity=".5"/><line x1="221.0" y1="46.0" x2="225.0" y2="39.1" stroke="#ffb000" stroke-opacity=".5"/><line x1="239.6" y1="54.1" x2="242.1" y2="51.1" stroke="#ffb000" stroke-opacity=".5"/><line x1="253.9" y1="68.4" x2="256.9" y2="65.9" stroke="#ffb000" stroke-opacity=".5"/><line x1="262.0" y1="87.0" x2="268.9" y2="83.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="274.0" y1="103.3" x2="277.8" y2="102.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="279.2" y1="122.9" x2="283.2" y2="122.2" stroke="#ffb000" stroke-opacity=".5"/><line x1="277.0" y1="143.0" x2="285.0" y2="143.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="279.2" y1="163.1" x2="283.2" y2="163.8" stroke="#ffb000" stroke-opacity=".5"/><line x1="274.0" y1="182.7" x2="277.8" y2="184.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="262.0" y1="199.0" x2="268.9" y2="203.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="253.9" y1="217.6" x2="256.9" y2="220.1" stroke="#ffb000" stroke-opacity=".5"/><line x1="239.6" y1="231.9" x2="242.1" y2="234.9" stroke="#ffb000" stroke-opacity=".5"/><line x1="221.0" y1="240.0" x2="225.0" y2="246.9" stroke="#ffb000" stroke-opacity=".5"/><line x1="204.7" y1="252.0" x2="206.0" y2="255.8" stroke="#ffb000" stroke-opacity=".5"/><line x1="185.1" y1="257.2" x2="185.8" y2="261.2" stroke="#ffb000" stroke-opacity=".5"/><line x1="165.0" y1="255.0" x2="165.0" y2="263.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="144.9" y1="257.2" x2="144.2" y2="261.2" stroke="#ffb000" stroke-opacity=".5"/><line x1="125.3" y1="252.0" x2="124.0" y2="255.8" stroke="#ffb000" stroke-opacity=".5"/><line x1="109.0" y1="240.0" x2="105.0" y2="246.9" stroke="#ffb000" stroke-opacity=".5"/><line x1="90.4" y1="231.9" x2="87.9" y2="234.9" stroke="#ffb000" stroke-opacity=".5"/><line x1="76.1" y1="217.6" x2="73.1" y2="220.1" stroke="#ffb000" stroke-opacity=".5"/><line x1="68.0" y1="199.0" x2="61.1" y2="203.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="56.0" y1="182.7" x2="52.2" y2="184.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="50.8" y1="163.1" x2="46.8" y2="163.8" stroke="#ffb000" stroke-opacity=".5"/><line x1="53.0" y1="143.0" x2="45.0" y2="143.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="50.8" y1="122.9" x2="46.8" y2="122.2" stroke="#ffb000" stroke-opacity=".5"/><line x1="56.0" y1="103.3" x2="52.2" y2="102.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="68.0" y1="87.0" x2="61.1" y2="83.0" stroke="#ffb000" stroke-opacity=".5"/><line x1="76.1" y1="68.4" x2="73.1" y2="65.9" stroke="#ffb000" stroke-opacity=".5"/><line x1="90.4" y1="54.1" x2="87.9" y2="51.1" stroke="#ffb000" stroke-opacity=".5"/><line x1="109.0" y1="46.0" x2="105.0" y2="39.1" stroke="#ffb000" stroke-opacity=".5"/><line x1="125.3" y1="34.0" x2="124.0" y2="30.2" stroke="#ffb000" stroke-opacity=".5"/><line x1="144.9" y1="28.8" x2="144.2" y2="24.8" stroke="#ffb000" stroke-opacity=".5"/><g clip-path="url(#rc)"><g>
+  <path d="M165,143 L165,23 A120,120 0 0 0 84.7,53.8 Z" fill="url(#sweep)"/>
+  <line x1="165" y1="143" x2="165" y2="23" stroke="#ffb000" stroke-width="1.5"/>
+  <animateTransform attributeName="transform" type="rotate" from="0 165 143" to="360 165 143" dur="6s" repeatCount="indefinite"/>
+</g></g><g opacity=".15">
+  <circle cx="203.5" cy="88.0" r="4" fill="#5ccfe6"/>
+  <circle cx="203.5" cy="88.0" r="4" fill="none" stroke="#5ccfe6">
+    <animate attributeName="r" values="4;16" dur="6s" begin="0.58s" repeatCount="indefinite"/>
+  </circle>
+  <text x="203.5" y="107.0" font-size="11" fill="#e6e1cf" text-anchor="middle">web</text>
+  <animate attributeName="opacity" values="1;.15;.15" keyTimes="0;.7;1" dur="6s" begin="0.58s" repeatCount="indefinite"/>
+</g><g opacity=".15">
+  <circle cx="204.6" cy="227.8" r="4" fill="#ffb000"/>
+  <circle cx="204.6" cy="227.8" r="4" fill="none" stroke="#ffb000">
+    <animate attributeName="r" values="4;16" dur="6s" begin="2.58s" repeatCount="indefinite"/>
+  </circle>
+  <text x="204.6" y="246.8" font-size="11" fill="#e6e1cf" text-anchor="middle">segurança</text>
+  <animate attributeName="opacity" values="1;.15;.15" keyTimes="0;.7;1" dur="6s" begin="2.58s" repeatCount="indefinite"/>
+</g><g opacity=".15">
+  <circle cx="98.1" cy="137.1" r="4" fill="#c792ea"/>
+  <circle cx="98.1" cy="137.1" r="4" fill="none" stroke="#c792ea">
+    <animate attributeName="r" values="4;16" dur="6s" begin="4.58s" repeatCount="indefinite"/>
+  </circle>
+  <text x="98.1" y="156.1" font-size="11" fill="#e6e1cf" text-anchor="middle">ágil</text>
+  <animate attributeName="opacity" values="1;.15;.15" keyTimes="0;.7;1" dur="6s" begin="4.58s" repeatCount="indefinite"/>
+</g><circle cx="165" cy="143" r="3" fill="#ffb000"/>
+<text x="340" y="78" font-size="12" fill="#ffb000" letter-spacing="3">PERFIL CARREGADO
+  <animate attributeName="opacity" values="1;1;.25;1;1" keyTimes="0;.45;.5;.55;1" dur="3s" repeatCount="indefinite"/>
+</text>
+<text x="340" y="132" font-size="54" font-weight="700" fill="#e6e1cf">SEU NOME</text>
+<text x="342" y="166" font-size="16" fill="#ffb000" xml:space="preserve">desenvolvedor web em construção  <tspan fill="#6b7280">/</tspan>  cibersegurança</text>
+<text x="342" y="200" font-size="12" fill="#6b7280" xml:space="preserve">LOC: Brasil   FUSO: UTC-3   STATUS: <tspan fill="#ffb000">aberto a colaborações</tspan></text>
+<text x="342" y="220" font-size="12" fill="#6b7280" xml:space="preserve">ÁREAS  ativo: 2   estudando: 1</text>
+<g transform="translate(342.0,240)">
+  <rect width="52.2" height="22" rx="11" fill="#5ccfe6" fill-opacity=".12" stroke="#5ccfe6" stroke-opacity=".55"/>
+  <circle cx="12" cy="11" r="3.5" fill="#5ccfe6"/>
+  <text x="22" y="15" font-size="12" fill="#e6e1cf">web</text>
+</g><g transform="translate(404.2,240)">
+  <rect width="96.6" height="22" rx="11" fill="#ffb000" fill-opacity=".12" stroke="#ffb000" stroke-opacity=".55"/>
+  <circle cx="12" cy="11" r="3.5" fill="#ffb000"/>
+  <text x="22" y="15" font-size="12" fill="#e6e1cf">segurança</text>
+</g><g transform="translate(510.8,240)">
+  <rect width="59.6" height="22" rx="11" fill="#c792ea" fill-opacity=".12" stroke="#c792ea" stroke-opacity=".55"/>
+  <circle cx="12" cy="11" r="3.5" fill="#c792ea"/>
+  <text x="22" y="15" font-size="12" fill="#e6e1cf">ágil</text>
+</g><line x1="20" y1="286" x2="940" y2="286" stroke="#ffb000" stroke-opacity=".2"/>
+<g clip-path="url(#tk)">
+  <text y="307" font-size="11" fill="#ffb000" fill-opacity=".38" xml:space="preserve">0b 30 55 7a 9f c4 e9 0e 33 58 7d a2 c7 ec 11 36 5b 80 a5 ca ef 14 39 5e 83 a8 cd f2 17 3c 61 86 ab d0 f5 1a 3f 64 89 ae d3 f8 1d 42 67 8c b1 d6 fb 20 45 6a 8f b4 d9 fe 23 48 6d 92 b7 dc 01 26 4b 70 95 ba df 04 29 4e 73 98 bd e2 07 2c 51 76 9b c0 e5 0a 2f 54 79 9e c3 e8 0d 32 57 7c a1 c6 eb 10 35 5a 7f a4 c9 ee 13 38 5d 82 a7 cc f1 16 3b 60 85 aa cf f4 19 3e
+    <animate attributeName="x" from="20" to="-900" dur="40s" repeatCount="indefinite"/>
+  </text>
+</g>
+</svg>
