@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB000&center=true&vCenter=true&width=560&lines=Desenvolvedor+em+aprendizagem;Sempre+buscando+aprender+mais" alt="Frases animadas: Desenvolvedor em aprendizagem, Sempre buscando aprender mais" />
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
 <h3 align="center">Sobre Mim</h3>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
 Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atualmente em busca de obter conhecimento profissional e oportunidades de vagas. Estou sempre querendo aprender mais sobre desenvolvimento full-stack e gosto de transformar ideias em realidade. Em paralelo, estudo cibersegurança: quero entender como as aplicações quebram para aprender a construí-las melhor.
@@ -17,8 +13,6 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, 
 </br>
 
 <img src="assets/terminal.svg" width="100%" alt="Terminal listando as áreas: web e full-stack, cibersegurança e metodologia ágil, cada uma com estado e tecnologias" />
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <h3 align="center">Tecnologias e ferramentas</h3>
 
@@ -29,36 +23,27 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, 
 </div>
   <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
 <h3 align="center">Estatísticas</h3>
 
 <div align="center">
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://tryhackme.com/p/USUARIO-THM" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/USUARIO-THM.png" height="110" alt="TryHackMe Stats" />
-      </a>
-      <br/>
-      <a href="https://leetcode.com/USUARIO" target="_blank">
-        <img src="https://leetcode-stats-api.herokuapp.com/USUARIO" width="100%" alt="LeetCode Stats" />
-      </a>
-      <br/>
       <a>
-        <sub>desafio oculto · abra uma issue com o título "flag" se decifrar</sub>
-        <code>U1lOVHtpYnByX3lyaF9iX3BicXZ0Yl9zYmFncn0=</code>
+        <img src="assets/plataformas.svg" width="100%" alt="Plataformas />
+      </a>
+      <br/>
+      <a href="" target="_blank">
       </a>
     <td align="center" valign="middle" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ViniciusGuin&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=ffb000&icon_color=ffb000&text_color=e6e1cf" alt="Estatísticas do GitHub" />
+      <img
+        src="https://streak-stats.demolab.com?user=ViniciusGuin&theme=dark"/>
       <br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusGuin&theme=chartreuse_dark" width="100%" alt="Detalhes do Perfil" />
     </td>
   </tr>
 </table>
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -68,6 +53,6 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, 
 
 <br/>
 
-<sub><code>// fim do perfil · última atualização [10/2026]</code></sub>
+<sub><code>// fim do perfil · última atualização [11/2026]</code></sub>
 
 </div>
